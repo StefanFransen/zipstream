@@ -7,7 +7,7 @@ package zipstream
 // license that can be found in the LICENSE file.
 
 import (
-	"compress/flate"
+	"github.com/klauspost/compress/flate"
 	"encoding/binary"
 	"io"
 	"io/ioutil"

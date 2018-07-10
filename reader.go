@@ -4,7 +4,7 @@
 package zipstream
 
 import (
-	"archive/zip"
+	"github.com/klauspost/compress/zip"
 	"bufio"
 	"encoding/binary"
 	"hash/crc32"

@@ -1,5 +1,6 @@
 # ZipStream - Reads zip files from io.Reader
 Doesn't yet support Zip64 archives - see help wanted below.
+This is a fork that implements klauspost's compress package to have the best of both worlds.
 
 ## Author
 http://richard.warburton.it/
